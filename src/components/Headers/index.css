@@ -1,0 +1,18 @@
+.logo {
+  width: 90px;
+}
+
+.logo-container {
+  background-color: #f1f5f9;
+  padding: 10px 10px 10px 50px;
+}
+
+@media screen and (min-width: 768px) {
+  .logo-container {
+    padding: 10px 10px 10px 80px;
+  }
+}
+
+Link {
+  text-decoration: none;
+}
